@@ -1,5 +1,7 @@
-# Entry 1
-##### X/X/XX
+# Entry 1: Mechanical engineering
+##### 10/25/26
+
+## Context
 
 Text
 
