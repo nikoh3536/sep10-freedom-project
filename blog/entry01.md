@@ -11,7 +11,7 @@ Some articles I use to explore the topic of mechanical engineering are ["What Ma
 
 ## Engineering design process:
 
-
+As of now, i am on the first stage of the engineering desighn proscess
 
 [Next](entry02.md)
 
