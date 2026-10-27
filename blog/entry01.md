@@ -14,7 +14,9 @@ As of now, I am on the first stage of the engineering design process which is de
 
 ## Skills:
 
-One skill I developed while gathering information on mechanical engineering is reserch
+#### Googling
+
+One skill I developed while gathering information on my mechanical engineering blog entry is researching a specific topic. When I tried googling **"mechanical engineering"** the results were generic and undesirable, not to mention there were too many mechanical engineering subcategories I couldn't find what I actually needed. So, I eventually learned to use more specific search terms like **"mechanical engineering technologies"** to get more pinpointed results.
 
 [Next](entry02.md)
 
