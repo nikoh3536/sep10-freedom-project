@@ -10,7 +10,7 @@ Some articles I use to explore the topic of Mechanical Engineering are ["What Ma
 
 ## Engineering design process:
 
-As of now, I am on the first stage of the engineering design process which is defining a problem, then I am going to shift my focus to the second step, researching about that problem. The main problem about Mechanical Engineering is people don't know how crucial a role technology plays in assisting Mechanical Engineers with design and building prototypes. As for the next stage, I plan to do more research on how to advise people on the importance of technology in Mechanical Engineers.
+As of now, I am on the first stage of the engineering design process which is defining a problem, then I am going to shift my focus to the second step, researching about that problem. The main problem about Mechanical Engineering is people don't know how crucial a role technology plays in assisting Mechanical Engineers with design and building prototypes. My goal is to create a website that explains how these technologies are used in Mechanical Engineering. As for the next stage, I plan to do more research on how to advise people on the importance of technology in Mechanical Engineers.
 
 ## Skills:
 
