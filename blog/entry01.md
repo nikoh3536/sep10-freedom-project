@@ -20,10 +20,7 @@ One skill I developed while gathering information on my mechanical engineering b
 
 #### Understanding Technical Information
 
-Another skill I've gained while doing this blog entry is understanding technical information regarding mechanical engineering. When researching some articles, I found that I didn't understand what some terms meant but got around the problem by googling the definitions. An example is the term biomechanics
+Another skill I've gained while doing this blog entry is understanding technical information regarding mechanical engineering. When researching some articles, I found that I didn't understand what some terms meant but got around the problem by googling the definitions. An example is the term **biomechanics**, which I didn't know what it was until I searched it up getting the following result _"Biomechanics, in science, the study of biological systems, particularly their structure and function, using methods derived from mechanics, which is concerned with the effects that forces have on the motion of bodies."_ which made this easier to reserch.
 
-#### Reading Technical Information
-
-[Next](entry02.md)
-
-[Home](../README.md)
+## Summary
+I'm excited to complete my research, website, and to continue learning Mechanical engineering about and pick up more skills about it along the way.
