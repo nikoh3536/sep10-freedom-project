@@ -1,5 +1,5 @@
 # Content
-Topic: **X**
+Topic: **Mechanical Engineering**
 
 ## Overview/Introduction/Context
 * Text
@@ -8,7 +8,7 @@ Topic: **X**
 ## Part A: existing technology
 
 ##### Software
-* Tech
+* Tech    solidworks
   * Detail
   * [image text](image URL)
 
