@@ -8,9 +8,13 @@ Topic: **Mechanical Engineering**
 ## Part A: existing technology
 
 ##### Software
-* Tech    solidworks
-  * Detail
-  * [image text](image URL)
+* Search: What apps do mechanical engineers use in the field?
+* Site: https://onlinedegrees.sandiego.edu/best-engineering-software/
+* Solidworks
+  * Has a student plan
+  * Is free to anyone
+  * Compatible with a wide range of operating systems
+  * [Solidworks](https://learnsolidworks.com/wp-content/uploads/solidworks-formula-1-course-600x400-1.jpg)
 
 ##### Hardware
 * Tech
