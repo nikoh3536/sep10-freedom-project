@@ -27,7 +27,9 @@ Topic: **Mechanical Engineering**
   * [Wrike](https://miro.medium.com/v2/resize:fit:1400/1*EzHb_PV4NvlKGyAwu6hhLQ.png)
 
 ##### Hardware
-* Tech
+* Search: Mechanical engineering hardware used for prototyping
+* Site: https://www.indeed.com/career-advice/career-development/mechanical-engineer-tools#toc-manual-mechanical-engineer-tools
+* 3D printer
   * Detail
   * [image text](image URL)
 
