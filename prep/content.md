@@ -31,7 +31,7 @@ Topic: **Mechanical Engineering**
 * Site: https://www.asme.org/topics-resources/content/10-tools-that-every-mechanical-engineer-should-know
 * 3D printer
   * Easy to use
-  * cheap material cost
+  * Cheap material cost
   * Great for prototyping 
   * [3D printer](https://m.media-amazon.com/images/I/61ZR83H1unL.jpg)
 * Coordinate measuring machines
