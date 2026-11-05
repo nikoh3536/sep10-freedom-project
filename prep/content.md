@@ -28,10 +28,22 @@ Topic: **Mechanical Engineering**
 
 ##### Hardware
 * Search: Mechanical engineering hardware used for prototyping
-* Site: https://www.indeed.com/career-advice/career-development/mechanical-engineer-tools#toc-manual-mechanical-engineer-tools
+* Site: https://www.asme.org/topics-resources/content/10-tools-that-every-mechanical-engineer-should-know
 * 3D printer
-  * Detail
-  * [image text](image URL)
+  * Easy to use
+  * cheap material cost
+  * Great for prototyping 
+  * [3D printer](https://m.media-amazon.com/images/I/61ZR83H1unL.jpg)
+* Coordinate measuring machines
+  * Extremely accurate
+  * Can do repetitive evaluation constantly
+  * Efficient Labor Use
+  * [Coordinate measuring machine](https://www.nolteprecise.com/wp-content/uploads/2012/12/Nolte_CMM-756x1024.jpg)
+* Digital force gauge
+  * Cheap and easy to use
+  * Provides accurate data
+  * Can do unit coversons
+  * [Digital force gauge](https://www.sisco.com/images/uploaded/digital-force-gauge-details.jpg)
 
 ## Part B: possible future technology
 * Idea
