@@ -24,7 +24,7 @@ Topic: **Mechanical Engineering**
 * Wrike
   * A strong easy to use project management platform
   * free for individual task management
-  * [Wrike](https://miro.medium.com/v2/resize:fit:1400/1*EzHb_PV4NvlKGyAwu6hhLQ.png)
+  *[Wrike](https://miro.medium.com/v2/resize:fit:1400/1*EzHb_PV4NvlKGyAwu6hhLQ.png)
 
 ##### Hardware
 * Search: Mechanical engineering hardware used for prototyping
@@ -44,6 +44,17 @@ Topic: **Mechanical Engineering**
   * Provides accurate data
   * Can do unit coversons
   * [Digital force gauge](https://www.sisco.com/images/uploaded/digital-force-gauge-details.jpg)
+
+## Categories
+
+* Least complex
+  * Basic everyday tools
+  * [Wrike](https://miro.medium.com/v2/resize:fit:1400/1*EzHb_PV4NvlKGyAwu6hhLQ.png)
+  * A simple user friendly application to communicate, track, and track work which is especially useful when working with a larger group of people on a project.
+  * It also comes with a special discount for students, meaning they can get into the habit of using wrike so that when they need to in the future, they know how.
+  * [Digital force gauge](https://www.sisco.com/images/uploaded/digital-force-gauge-details.jpg)
+  * A simple easy to use but convenient tool for measuring tension or compression for any kind of prototype testing.
+  * Simple to use and excellent for ensuring reliability for when the prototype is used in real world applications.
 
 ## Part B: possible future technology
 * Idea
