@@ -2,8 +2,8 @@
 Topic: **Mechanical Engineering**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* Mechanical engineering has always been and will always be important in our lives, it is applied to our appliances cars and even small things like automatic doors.
+* Mechanical engineers use tons of technology to help them envision problems solve tests and communicate their ideas so they can become a reality for the benefit of everybody.
 
 ## Part A: existing technology
 
