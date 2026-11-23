@@ -34,5 +34,18 @@ Topic: **Mechanical Engineering**
   * Great for precision and getting a product ready for the real world.
 
 ## Part B: possible future technology
+* Real world simulation
+  * Detail
+  * Detail
+  * Detail
+
+* Gravitational molder
+  * Detail
+  * Detail
+  * Detail
+
+* Augmented reality project viewer
+  * Detail
+
 * Idea
   * Detail
